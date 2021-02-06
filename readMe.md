@@ -26,4 +26,19 @@ This a Django application that allow a user to keep in touch with everything tha
 
 no known bugs so far
 
-## 
+## Technologies Used
+
+- Python
+- Django
+- Bootstrap
+- Pip
+
+## Support and contact details
+
+contact me at 
+
+email : umedith03@gmail.com
+
+## Licence 
+ 
+ Copyright (c) {2021} Edith reine
