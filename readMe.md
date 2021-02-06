@@ -17,7 +17,7 @@ This a Django application that allow a user to keep in touch with everything tha
 ## Installation requirements and steps.
 
 - Ensure you have python installed in your local machine.
-- Clone the repository from github by running https://github.com/feysal-Ibrahim/Neighbours on the terminal.
+- Clone the repository from github by running https://github.com/umedith/neighboorhood.giton the terminal.
 Install the python virtual environment in the repo by running python3.6 -m venv virtual.
 Run pip install -r requirements on your terminal after installing the virtual environment to install the applications requirements.
 Run python3.6 manage.py runserver in a virtual environment to view the site.
