@@ -14,4 +14,4 @@ This a Django application that allow a user to keep in touch with everything tha
 4. A user can join a hood, create a business and make posts within the hood.
 5. A user can comment on a post.
 
-
+Installation requirements and steps.
