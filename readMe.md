@@ -21,3 +21,9 @@ This a Django application that allow a user to keep in touch with everything tha
 - Install the python virtual environment in the repo by running python3.6 -m venv virtual.
 - Run pip install -r requirements on your terminal after installing the virtual environment to install the applications requirements.
 - Run python3.6 manage.py runserver in a virtual environment to view the site.
+
+## Known Bugs 
+
+no known bugs so far
+
+## 
